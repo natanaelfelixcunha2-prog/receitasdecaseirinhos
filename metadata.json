@@ -1,0 +1,6 @@
+{
+  "name": "Receitas de Caseirinhos em Casa - Informações Legais e Políticas",
+  "description": "Portal oficial de informações legais, Termos e Condições de Utilização, Política de Privacidade e Política de Reembolso e Livre Resolução para o produto digital Receitas de Caseirinhos em Casa (Portugal).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
